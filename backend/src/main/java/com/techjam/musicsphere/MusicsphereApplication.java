@@ -1,13 +1,13 @@
-package com.techjam.musicsphere;
+package main.java.com.techjam.musicsphere;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MusicSphereApplication {
+public class MusicsphereApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MusicSphereApplication.class, args);
+		SpringApplication.run(MusicsphereApplication.class, args);
 	}
 
 }
